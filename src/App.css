@@ -58,3 +58,6 @@ display: flexbox;
   gap: 5px;
   padding: 10px;
 }
+.card card-title{
+  color:#fff;
+}
